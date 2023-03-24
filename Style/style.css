@@ -1,0 +1,37 @@
+* {
+  text-align: center;
+  background-color: black;
+  font-family: 'Nanum Gothic', sans-serif;
+}
+
+header {
+  color: white;
+}
+
+nav {
+  text-align: right;
+  color: white;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+footer {
+  text-decoration: none;
+  color: white;
+  text-align: left;
+}
+
+h2 {
+  color: white;
+}
+
+h1 {
+  text-align: center;
+}
+
+img:hover {
+  border-image: round;
+}
